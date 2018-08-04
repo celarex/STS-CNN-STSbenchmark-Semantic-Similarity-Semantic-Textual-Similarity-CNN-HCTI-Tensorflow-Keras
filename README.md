@@ -19,7 +19,7 @@ If you use these codes for your research, please cite:
     	publisher = {Association for Computational Linguistics},
     }
 
-Yang Shao. 2017. HCTI at SemEval-2017 Task 1: Use convolutional neural network to evaluate semantic textual similarity. In Proceedings of SemEval-2017. http://www.aclweb.org/anthology/S17-2016
+Yang Shao. 2017. HCTI at SemEval-2017 Task 1: Use convolutional neural network to evaluate semantic textual similarity. In Proceedings of SemEval-2017. https://github.com/celarex/Semantic-Textual-Similarity-STSbenchmark-HCTI-CNN
 
 ## Training
 
