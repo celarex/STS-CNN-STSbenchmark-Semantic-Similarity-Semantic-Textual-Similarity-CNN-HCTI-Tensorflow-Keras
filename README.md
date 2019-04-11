@@ -3,7 +3,11 @@
 ## Introduction
 
 This repository contains an implementation of paper "HCTI at SemEval-2017 Task 1: Use convolutional neural network to evaluate semantic textual similarity." 
+
+https://www.aclweb.org/anthology/S17-2016
+
 A simple CNN approach to get semantic textual similarity scores is proposed in the paper, which got the 3rd place in SemEval-2017 task 1. 
+
 This implementation is based on python 3.5/Tensorflow 1.7.0/Keras 1.2.2 and can achieve over 0.77 on STSbenchmark datasets. 
 
 ## Citation
