@@ -18,8 +18,7 @@ If you use these codes for your research, please cite:
     	booktitle = {Proceedings of the 11th International Workshop on Semantic Evaluation (SemEval 2017)},
     	year   = {2017},
     	address = {Vancouver, Canada},
-    	publisher = {Association for Computational Linguistics},
-        note = {\href{https://github.com/celarex}{URL}}
+    	publisher = {Association for Computational Linguistics},note = {\href{https://github.com/celarex}{URL}}
     }
 
 Yang Shao. 2017. HCTI at SemEval-2017 Task 1: Use convolutional neural network to evaluate semantic textual similarity. In Proceedings of SemEval-2017. https://github.com/celarex/Semantic-Textual-Similarity-STSbenchmark-HCTI-CNN
