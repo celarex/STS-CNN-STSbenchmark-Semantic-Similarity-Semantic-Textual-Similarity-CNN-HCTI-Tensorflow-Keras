@@ -11,6 +11,7 @@ from tensorflow.python.keras.regularizers import l2
 from tensorflow.python.keras.callbacks import Callback
 from tensorflow.python.keras.preprocessing.sequence import pad_sequences
 
+
 class Embedder(object):
     def __init__(self, dictname, wordvectdim):
         print('Loading GloVe...(This might take one or two minutes.)')
