@@ -32,3 +32,5 @@ To train your own model, you need to download GloVe pre-trained word vectors fro
 To train your CNN model on STSbenchmark datasets:
 
     python sts.py
+
+## Enjoy!
