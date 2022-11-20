@@ -1,5 +1,7 @@
 # STSbenchmark
 
+Fork from celarex
+
 ## Introduction
 
 This repository contains an implementation of paper "HCTI at SemEval-2017 Task 1: Use convolutional neural network to evaluate semantic textual similarity." 
