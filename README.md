@@ -32,3 +32,5 @@ To train your CNN model on STSbenchmark datasets:
     python sts.py
 
 ## Enjoy!
+
+TO DO LIST: 1.Pytorch version
