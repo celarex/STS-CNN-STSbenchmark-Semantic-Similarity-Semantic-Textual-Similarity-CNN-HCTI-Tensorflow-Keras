@@ -38,3 +38,7 @@ To train your CNN model on STSbenchmark datasets:
 TODO: 1. Pytorch version
 
 ## Enjoy!
+
+## TODO LIST
+
+TODO: 1. Pytorch version
